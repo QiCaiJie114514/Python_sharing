@@ -25,10 +25,15 @@ C:/Windows/Fonts/msyh.ttc
 
 ~~可以直接写在json文件中写入,例如{"K_1": "C:/Windows/Fonts/msyh.ttc"}~~
 字体切换改成按F键啦!在config.json内你可以这么编写
+
 {"font": {"paths": ["fonts/ew.ttf"],"size": 30}}
+
 又或者
+
 {"font": {"paths": ["C:/Windows/Fonts/msyh.ttc"],"size": 30}}
+
 但是请注意，一定要在末尾加上逗号，除非是最后一个
+
 {"font": {"paths": ["fonts/ew.ttf","C:/Windows/Fonts/msyh.ttc"],"size": 30}}
 
 **MacOS**
