@@ -1,0 +1,4 @@
+text_file=danmaku.txt
+color_file=colors.txt
+speed_range=3,7
+max_count=60

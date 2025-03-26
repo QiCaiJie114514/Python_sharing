@@ -1,0 +1,4 @@
+dir=images
+speed_range=4,10
+scale_range=0.1,0.01
+max_count=1

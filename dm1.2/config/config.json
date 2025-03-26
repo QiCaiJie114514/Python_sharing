@@ -1,0 +1,11 @@
+{
+    "font": {
+        "paths": [
+            "fonts/ew.ttf"
+        ],
+        "size": 30
+    },
+    "danmaku": {
+        "max_count": 60
+    }
+}
